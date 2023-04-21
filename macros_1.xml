@@ -1,0 +1,7 @@
+<yandex>
+    <macros>
+       <cluster>cluster_demo_ash</cluster>
+       <shard>1</shard>
+    </macros>
+</yandex>
+
